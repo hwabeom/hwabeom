@@ -27,6 +27,6 @@ PM · Dev · Design
 
 <br>                                                                                                                                            
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hwabeom/hwabeom/main/kid-cat.gif" width="600" />
+  <img src="https://raw.githubusercontent.com/hwabeom/hwabeom/main/kid-cat.gif" width="200" />
 </p>
 </div>
