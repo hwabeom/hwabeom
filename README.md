@@ -26,5 +26,7 @@ PM · Dev · Design
 [portfolio →](https://hwabeom-portfolio.onrender.com/)
 
 <br>                                                                                                                                            
-![](kid-cat.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hwabeom/hwabeom/main/kid-cat.gif" width="600" />
+</p>
 </div>
